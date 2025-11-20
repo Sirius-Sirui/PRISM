@@ -1,27 +1,27 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Sirui LIU"
+description = "PhD student at the Teachers College, Columbia University."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "November 20, 2025"
 
 [author]
-name = "Jiale Liu"
+name = "Sirui LIU"
 title = "PhD Student"
-institution = "University of Example"
+institution = "Teachers College, Columbia University"
 avatar = "/bio.jpg"
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+email = "sl5576@tc.columbia.edu"
+location = "New York, The United State"
+location_url = "https://www.google.com/maps/place/Teachers+College,+Columbia+University/@40.8101611,-73.963032,17z/data=!3m1!4b1!4m14!1m7!3m6!1s0x89c2f7b4ca799cc3:0x7bd148cc31f37026!2sBuilding+528!8m2!3d40.8107802!4d-73.9609155!16s%2Fg%2F11twjf5h56!3m5!1s0x89c2f799eb3e8327:0x9943aa38c2b90ade!8m2!3d40.8101571!4d-73.9604571!16zL20vMDNwN2di?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Room 1055, The 528 Building,",
+  "Teachers College, Columbia University, NY, USA."
 ]
 
 [social]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
+google_scholar = "https://scholar.google.com/citations?user=9idTRJ4AAAAJ&hl=en&oi=sra"
+orcid = "https://orcid.org/0000-0001-8233-9494"
 github = "https://github.com"
-linkedin = "https://linkedin.com"
+linkedin = "https://www.linkedin.com/in/sirui-liu-277a08200/"
 
 [features]
 enable_likes = true
