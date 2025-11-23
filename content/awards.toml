@@ -9,7 +9,19 @@ date = "2025"
 content = "Each year offer between one and three doctoral students, which include tution and a stipend for four years."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "First Prize Scholarship"
+subtitle = "Undergraduate scholarship"
+date = "2018-2020"
+content = "Each semester offer the top 10 students based on each major's GPA ranking."
+
+[[items]]
+title = "'Ruiwei' Second Prize Scholarship"
+subtitle = "Undergraduate scholarship"
+date = "2019"
+content = "Each year offer 5 excellent students based on each department committee's evaluation."
+
+[[items]
+title = "Second Prize Scholarship"
+subtitle = "Undergraduate scholarship"
+data = "2016-2018'
+content = 'Each semester offer 15 students whose GPA ranked between 15-30 in their major.'
