@@ -3,9 +3,10 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Bioengineering",
+  "Kinesiology",
+  "Rehabilitation",
+  "Musculoskeletal modeling"
 ]
 
 [[sections]]
@@ -19,7 +20,7 @@ id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
 filter = "selected"
-limit = 5
+limit = 10
 
 [[sections]]
 id = "news"
