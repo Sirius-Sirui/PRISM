@@ -3,19 +3,19 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "TC fellowship"
+subtitle = "Teachers College, Columbia University"
+date = "2026"
+content = "$160000 per year including tution fee package and living spending package."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "The first prize scholarship"
+subtitle = "Central South University"
+date = "2018-2020"
+content = "Top 10% student per semester."
 
 [[items]]
-title = "Example Award"
+title = "The second prize scholarship"
 subtitle = "Organization"
 date = "2023"
 content = "Description of the award."
