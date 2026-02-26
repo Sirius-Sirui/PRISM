@@ -8,6 +8,10 @@
 - Research focus: Wearable device data analysis; Musculoskeletal modeling
 - Supervisor: Prof. Anthony MJ Bull, Prof. Alison McGregor, Dr. Pouya Amiri
 
+**Central South University**, BEng in Transportation equipment and Control Engineering, *2016 - 2020*
+- Research focus: Bone structure biomechanics; Blast injury for car collision
+- Supervisor: Prof. Yong Peng, Prof. Yanni Rao
+
 ## Experience
 
 **Research Assistant, Imperial College London**
