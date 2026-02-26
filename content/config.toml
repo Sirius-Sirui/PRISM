@@ -7,7 +7,7 @@ last_updated = "Feb 25, 2025"
 [author]
 name = "Sirui LIU (Sirius)"
 title = "PhD Student"
-institution = "Teachers College, Columbia University"
+institution = "TC, Columbia University"
 avatar = "/profile1.jpg"
 
 [social]
@@ -22,8 +22,8 @@ location_details = [
 ]
 google_scholar = "https://scholar.google.com/citations?user=9idTRJ4AAAAJ&hl=en&oi=sra"
 orcid = "https://orcid.org/0000-0001-8233-9494"
-github = "ID: Sirius-Sirui"
-linkedin = "www.linkedin.com/in/sirui-liu-277a08200"
+github = "https://github.com/Sirius-Sirui"
+linkedin = "https://www.linkedin.com/in/sirui-liu-277a08200/"
 
 [features]
 # Show a like button on the about page
@@ -43,6 +43,12 @@ title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
+
+[[navigation]]
+title = "Conferences"
+type = "page"
+target = "conferences"
+href = "/conferences"
 
 [[navigation]]
 title = "Teaching"
