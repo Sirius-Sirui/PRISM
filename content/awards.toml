@@ -1,4 +1,4 @@
-type = "card"
+raltype = "card"
 title = "Awards"
 description = "Honors and awards I have received."
 
@@ -16,7 +16,7 @@ content = "Top 10% student per semester of the major."
 
 [[items]]
 title = "The Second Prize Scholarship"
-subtitle = "Organization"
+subtitle = "Central South University"
 date = "2016-2018"
 content = "Top 25% student per semester of the major."
 
