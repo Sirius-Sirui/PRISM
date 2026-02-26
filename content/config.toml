@@ -9,16 +9,16 @@ name = "Sirui LIU (Sirius)"
 title = "PhD Student"
 institution = "TC, Columbia University"
 avatar = "/profile1.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
 email = "sl5576@tc.columbia.edu"
 location = "New York, USA"
 location_url = "https://maps.app.goo.gl/oBQ8XBV2TV5Rv6cKA"
 location_details = [
   "Room 1055, Building 528,",
-  "528 W 121st St, New York, NY 10027"
+  "528 W 121st St, New York, NY 10027"  
   ] 
-  
-[social]
-# Contact information (leave blank or delete to hide)
 google_scholar = "https://scholar.google.com/citations?user=9idTRJ4AAAAJ&hl=en&oi=sra"
 orcid = "https://orcid.org/0000-0001-8233-9494"
 github = "https://github.com/Sirius-Sirui"
