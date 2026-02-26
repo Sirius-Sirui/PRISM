@@ -12,6 +12,7 @@ avatar = "/profile1.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
+
 email = "sl5576@tc.columbia.edu"
 location = "New York, USA"
 location_url = "https://maps.app.goo.gl/oBQ8XBV2TV5Rv6cKA"
