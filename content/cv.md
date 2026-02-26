@@ -13,6 +13,7 @@
 **Research Assistant, Imperial College London**
 London, UK
 *Apr 2022 - Sep 2024*
+
 *Force + IMU Time-series pipeline (movement classification)*
 - Built a MATLAB/Python-based post-processing pipeline for multimodal sensor data (force + IMU), including band-pass and noise filtering, segmentation, normalization, and feature extraction to support downstream modeling. 
 - Trained and validated a subject-wise time-series logistic regression model for movement classification; achieved AUROC 0.705 and accuracy 0.727, and improved robustness using normalization and data augmentation.
@@ -26,6 +27,7 @@ London, UK
 **PhD researcher, Teachers College, Columbia University**
 New York, USA
 *Dec 2024 - Present*
+
 *Mechanical representation during object grasping*
 - Developing force models for typical grasped objects by using force sensors and clustering algorithms, and analysing mechanical feedback characteristics during dominant-hand grasping tasks
 - Designing analysis workflows to quantify grasp performance from force-based measures.
@@ -33,6 +35,7 @@ New York, USA
 **Data/Research intern (Registry analytics), Teachers College, Columbia University**
 New York, USA
 *Dec 2025 - Present*
+
 *MSUD Patient Registry (CoRDS)*
 - Cleaned and analysed survey data from 120 MSUD respondents using Python and SAS; produced clear summaries to support report writing and manuscript preparation.
 - Organized survey items into a structured framework (questionnaire mind map) to improve clarity and consistency across domains.
