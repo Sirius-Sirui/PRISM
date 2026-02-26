@@ -1,4 +1,4 @@
-raltype = "card"
+type = "card"
 title = "Awards"
 description = "Honors and awards I have received."
 
