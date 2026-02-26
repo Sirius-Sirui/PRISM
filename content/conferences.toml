@@ -1,0 +1,17 @@
+type = "card"
+title = "Conference"
+description = "Conferences I have attended."
+
+[[items]]
+title = "Biomechanics analysis of movement"
+subtitle = "Course Assistant"
+date = "2025"
+content = "Provided in-depth explanations of the biomechanics lab to students, focusing on introducing and demonstrating the APDM system (a wearable sensor system for analysing human dynamics) and the VICON motion capture system (a high-precision 3D motion capture system for accurate analysis of human movement). Additionally, integrated real-world applications into the lecture to help students better understand the practical usage and significance of these systems in motion analysis and biomechanics research."
+tags = ["Graduate", "Biomechanics","Signal Processing"]
+
+[[items]]
+title = "Probability and statistical inference"
+subtitle = "Teaching Assistant"
+date = "2025"
+content = "Addressed students’ questions from the classroom in a detailed and comprehensive manner to ensure a deeper understanding of the relevant statistical concepts. Regularly organized study groups to facilitate knowledge review and discussion, helping students reinforce key topics and improve their grasp of core concepts."
+tags = ["Graduate", "Data analysis","Statistics"]
