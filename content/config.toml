@@ -22,7 +22,7 @@ location_details = [
 google_scholar = "https://scholar.google.com/citations?user=9idTRJ4AAAAJ&hl=en&oi=sra"
 orcid = "https://orcid.org/0000-0001-8233-9494"
 github = "https://github.com/Sirius-Sirui"
-linkedin = "https://www.linkedin.com/in/sirui-liu-277a08200/?locale=en"
+linkedin = "https://www.linkedin.com/in/sirui-liu-277a08200/"
 
 [features]
 # Show a like button on the about page
