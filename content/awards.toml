@@ -3,25 +3,25 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "TC fellowship"
+title = "TC Fellowship"
 subtitle = "Teachers College, Columbia University"
-date = "2026"
-content = "$160000 per year including tution fee package and living spending package."
+date = "2024-2028"
+content = "$160000 per academic year including tution fee package and living spending package."
 
 [[items]]
-title = "The first prize scholarship"
+title = "The First Prize Scholarship"
 subtitle = "Central South University"
 date = "2018-2020"
-content = "Top 10% student per semester."
+content = "Top 10% student per semester of the major."
 
 [[items]]
-title = "The second prize scholarship"
+title = "The Second Prize Scholarship"
 subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+date = "2016-2018"
+content = "Top 25% student per semester of the major."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "'Ruiwei' Second Scholarship"
+subtitle = "Ruiwei Scholarship Committe"
+date = "2019"
+content = "Top 10% student per year from Transportation Equipment and Control Engineering department."
