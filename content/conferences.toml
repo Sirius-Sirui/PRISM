@@ -3,15 +3,29 @@ title = "Conference"
 description = "Conferences I have attended."
 
 [[items]]
-title = "Biomechanics analysis of movement"
-subtitle = "Course Assistant"
-date = "2025"
-content = "Provided in-depth explanations of the biomechanics lab to students, focusing on introducing and demonstrating the APDM system (a wearable sensor system for analysing human dynamics) and the VICON motion capture system (a high-precision 3D motion capture system for accurate analysis of human movement). Additionally, integrated real-world applications into the lecture to help students better understand the practical usage and significance of these systems in motion analysis and biomechanics research."
-tags = ["Graduate", "Biomechanics","Signal Processing"]
+title = "The 2026 Genetic Metabolic Dietitians International Conference (poster-presentation)"
+subtitle = "St. Louis, Missouri, USA"
+date = "2026"
+content = "Dolins,K. R., Jurecki, E., Liu, S. Preliminary growth findings of a patient registry for MSUD using CoRDS (Coordination of Rare Diseases at Sanford)"
+tags = ["Medicine", "Genetic disease","Survey data analysis"]
 
 [[items]]
-title = "Probability and statistical inference"
-subtitle = "Teaching Assistant"
-date = "2025"
-content = "Addressed students’ questions from the classroom in a detailed and comprehensive manner to ensure a deeper understanding of the relevant statistical concepts. Regularly organized study groups to facilitate knowledge review and discussion, helping students reinforce key topics and improve their grasp of core concepts."
-tags = ["Graduate", "Data analysis","Statistics"]
+title = "IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility (poster-presentation)"
+subtitle = "Chicago, Illinois, USA"
+date = "2024"
+content = "Sun, L., Liu, S., et al. Classified early-stage and late-stage knee osteoarthritis patients by using walking IMU data in logistic regression model"
+tags = ["Graduate", "Wearable devices","Signal Processing","Machine Learning","Best Demo Rewards"]
+
+[[items]]
+title = "The 9th World Congress of Biomechanics (oral presentation)"
+subtitle = "Taipei, Taiwan, China"
+date = "2022"
+content = "Liu, S. Asymmetry in knee and hip contact and muscle forces in patients with unilateral medial knee osteoarthritis during stair activities."
+tags = ["Graduate", "Biomechanics","Musculoskeletal modeling"]
+
+[[items]]
+title = "The BioMedEng 2022 conference (oral presentation)"
+subtitle = "London, UCL, UK"
+date = "2022"
+content = "Liu, S. Asymmetry in knee and hip contact and muscle forces in patients with unilateral medial knee osteoarthritis during sit to stand."
+tags = ["Graduate", "Biomechanics","Musculoskeletal modeling"]
