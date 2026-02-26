@@ -3,41 +3,29 @@ title = "Conference"
 description = "Conferences I have attended."
 
 [[items]]
-title = "The 2026 Genetic Metabolic Dietitians International Conference (poster-presentation)"
-subtitle = """
-St. Louis, Missouri, USA 
-Dolins,K. R., Jurecki, E., Liu, S.
-"""
+title = "The 2026 Genetic Metabolic Dietitians International Conference | St. Louis, Missouri, USA | Poster"
+subtitle = "Dolins,K. R., Jurecki, E., Liu, S."
 date = "2026"
 content = "Preliminary growth findings of a patient registry for MSUD using CoRDS (Coordination of Rare Diseases at Sanford)"
 tags = ["Medicine", "Genetic disease","Survey data analysis"]
 
 [[items]]
-title = "IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility (poster-presentation)"
-subtitle = """
-Chicago, Illinois, USA
-Sun, L., Liu, S., et al.
-"""
+title = "IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility | Chicago, Illinois, USA | Poster"
+subtitle = "Sun, L., Liu, S., et al."
 date = "2024"
 content = "Classified early-stage and late-stage knee osteoarthritis patients by using walking IMU data in logistic regression model"
 tags = ["Graduate", "Wearable devices","Signal Processing","Machine Learning","Best Demo Rewards"]
 
 [[items]]
-title = "The 9th World Congress of Biomechanics (oral presentation)"
-subtitle = """
-Taipei, Taiwan, China
-Liu, S., et al.
-"""
+title = "The 9th World Congress of Biomechanics | Taipei, Taiwan, Chine | Oral"
+subtitle = "Liu, S., et al."
 date = "2022"
 content = "Asymmetry in knee and hip contact and muscle forces in patients with unilateral medial knee osteoarthritis during stair activities."
 tags = ["Graduate", "Biomechanics","Musculoskeletal modeling"]
 
 [[items]]
-title = "The BioMedEng 2022 conference (oral presentation)"
-subtitle = """
-London, UCL, UK
-Liu, S., et al.
-"""
+title = "The BioMedEng 2022 conference | London, UCL, UK | Oral"
+subtitle = "Liu, S., et al."
 date = "2022"
 content = "Asymmetry in knee and hip contact and muscle forces in patients with unilateral medial knee osteoarthritis during sit to stand."
 tags = ["Graduate", "Biomechanics","Musculoskeletal modeling"]
