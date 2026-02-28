@@ -3,6 +3,13 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
+title = "mHealth & Wearable sensing lab (CIS project)"
+subtitle = "Teaching Assistant & Research Assistant"
+date = "July 2023 - July 2024"
+content = "Delivered 3 hours/week of remote TA instruction during the academic year and supported a two-week on-site summer lab as a research assistant, helping Prof. Nabil Alshurafa (Northwestern University) with course delivery and lab operations. Led review sessions on mHealth system design and common sensing modalities (ECG, PPG, IMU, proximity, ambient light), emphasizing sampling considerations, noise sources, and practical signal interpretation. Mentored students through end-to-end wearable experiments using the Seeed XIAO board and related sensors, including protocol design, data collection, and system validation, and provided hands-on guidance in rapid prototyping with Arduino (embedded data acquisition) and Python/TensorFlow (basic model development and evaluation)."
+tags = ["Undergraduate", "mHealth","Wearable device", "Signal Processing"]
+
+[[items]]
 title = "Biomechanics analysis of movement"
 subtitle = "Course Assistant"
 date = "2025"
