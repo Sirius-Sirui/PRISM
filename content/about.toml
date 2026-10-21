@@ -5,7 +5,8 @@ title = "About"
 research_interests = [
   "Bioengineering",
   "Wearable sensor",
-  "Biomechanics"
+  "Biomechanics",
+  "Motor control",
 ]
 
 [[sections]]
