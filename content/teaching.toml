@@ -3,6 +3,13 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
+title = "Brain/Machine Interface: Artifical intelligence, signal & circuits (CIS project)"
+subtitle = "Teaching Assistant & Research Assistant"
+date = "July 2026 - Present"
+content = "Delivered 3 hours/week of remote TA instruction during the academic year and supported a two-week on-site summer lab as a research assistant, helping Prof. Neal Bangerter (Imperial College London) with course delivery and lab operations. Led review sessions on BMI system design and common sensing modalities (ECG & EMG), emphasizing sampling considerations, noise sources, and practical signal interpretation. Mentored students through end-to-end coding experiments while using devices, including protocol design, data collection, and system validation."
+tags = ["Undergraduate", "BMI/BCI","Machine Learning", "Signal Processing"]
+
+[[items]]
 title = "mHealth & Wearable sensing lab (CIS project)"
 subtitle = "Teaching Assistant & Research Assistant"
 date = "July 2023 - July 2024"
