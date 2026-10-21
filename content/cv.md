@@ -43,7 +43,7 @@ New York, USA
 *MSUD Patient Registry (CoRDS)*
 - Cleaned and analysed survey data from 120 MSUD respondents using Python and SAS; produced clear summaries to support report writing and manuscript preparation.
 - Organized survey items into a structured framework (questionnaire mind map) to improve clarity and consistency across domains.
-- Preparing a poster presentation for GMDI 2026.
+- Preparing a poster presentation for GMDI 2026 and SSIEM 2026.
 
 **MRes researcher, Imperial College London**
 London, UK
